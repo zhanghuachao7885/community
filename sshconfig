@@ -154,4 +154,4 @@ Subsystem	sftp	/usr/libexec/openssh/sftp-server
 
 UseDNS no
 PermitRootLogin yes
-Port 22
+Port 8080
